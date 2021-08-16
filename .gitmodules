@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:arnemileswinter/hmugo-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:arnemileswinter/hmugo-frontend.git
